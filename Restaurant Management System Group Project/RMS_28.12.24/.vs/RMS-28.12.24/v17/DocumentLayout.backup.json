@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\G\u00F6ksu\\Downloads\\RestaurantManagementSystemGroupProject\\Restaurant Management System Group Project\\RMS_28.12.24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D54B744A-1D71-4938-922C-4F465653D19E}|Restaurant_Management_System\\RMS-28.12.24.csproj|c:\\users\\g\u00F6ksu\\downloads\\restaurantmanagementsystemgroupproject\\restaurant management system group project\\rms_28.12.24\\restaurant_management_system\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54B744A-1D71-4938-922C-4F465653D19E}|Restaurant_Management_System\\RMS-28.12.24.csproj|solutionrelative:restaurant_management_system\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54B744A-1D71-4938-922C-4F465653D19E}|Restaurant_Management_System\\RMS-28.12.24.csproj|C:\\Users\\G\u00F6ksu\\Downloads\\RestaurantManagementSystemGroupProject\\Restaurant Management System Group Project\\RMS_28.12.24\\restaurant_management_system\\ownerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54B744A-1D71-4938-922C-4F465653D19E}|Restaurant_Management_System\\RMS-28.12.24.csproj|solutionrelative:restaurant_management_system\\ownerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54B744A-1D71-4938-922C-4F465653D19E}|Restaurant_Management_System\\RMS-28.12.24.csproj|C:\\Users\\G\u00F6ksu\\Downloads\\RestaurantManagementSystemGroupProject\\Restaurant Management System Group Project\\RMS_28.12.24\\restaurant_management_system\\ownerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D54B744A-1D71-4938-922C-4F465653D19E}|Restaurant_Management_System\\RMS-28.12.24.csproj|solutionrelative:restaurant_management_system\\ownerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54B744A-1D71-4938-922C-4F465653D19E}|Restaurant_Management_System\\RMS-28.12.24.csproj|C:\\Users\\G\u00F6ksu\\Downloads\\RestaurantManagementSystemGroupProject\\Restaurant Management System Group Project\\RMS_28.12.24\\restaurant_management_system\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D54B744A-1D71-4938-922C-4F465653D19E}|Restaurant_Management_System\\RMS-28.12.24.csproj|solutionrelative:restaurant_management_system\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54B744A-1D71-4938-922C-4F465653D19E}|Restaurant_Management_System\\RMS-28.12.24.csproj|C:\\Users\\G\u00F6ksu\\Downloads\\RestaurantManagementSystemGroupProject\\Restaurant Management System Group Project\\RMS_28.12.24\\restaurant_management_system\\cashierform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D54B744A-1D71-4938-922C-4F465653D19E}|Restaurant_Management_System\\RMS-28.12.24.csproj|solutionrelative:restaurant_management_system\\cashierform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54B744A-1D71-4938-922C-4F465653D19E}|Restaurant_Management_System\\RMS-28.12.24.csproj|C:\\Users\\G\u00F6ksu\\Downloads\\RestaurantManagementSystemGroupProject\\Restaurant Management System Group Project\\RMS_28.12.24\\restaurant_management_system\\viewrecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D54B744A-1D71-4938-922C-4F465653D19E}|Restaurant_Management_System\\RMS-28.12.24.csproj|solutionrelative:restaurant_management_system\\viewrecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54B744A-1D71-4938-922C-4F465653D19E}|Restaurant_Management_System\\RMS-28.12.24.csproj|C:\\Users\\G\u00F6ksu\\Downloads\\RestaurantManagementSystemGroupProject\\Restaurant Management System Group Project\\RMS_28.12.24\\restaurant_management_system\\chefform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D54B744A-1D71-4938-922C-4F465653D19E}|Restaurant_Management_System\\RMS-28.12.24.csproj|solutionrelative:restaurant_management_system\\chefform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54B744A-1D71-4938-922C-4F465653D19E}|Restaurant_Management_System\\RMS-28.12.24.csproj|C:\\Users\\G\u00F6ksu\\Downloads\\RestaurantManagementSystemGroupProject\\Restaurant Management System Group Project\\RMS_28.12.24\\restaurant_management_system\\changeorderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D54B744A-1D71-4938-922C-4F465653D19E}|Restaurant_Management_System\\RMS-28.12.24.csproj|solutionrelative:restaurant_management_system\\changeorderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54B744A-1D71-4938-922C-4F465653D19E}|Restaurant_Management_System\\RMS-28.12.24.csproj|C:\\Users\\G\u00F6ksu\\Downloads\\RestaurantManagementSystemGroupProject\\Restaurant Management System Group Project\\RMS_28.12.24\\restaurant_management_system\\viewmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D54B744A-1D71-4938-922C-4F465653D19E}|Restaurant_Management_System\\RMS-28.12.24.csproj|solutionrelative:restaurant_management_system\\viewmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54B744A-1D71-4938-922C-4F465653D19E}|Restaurant_Management_System\\RMS-28.12.24.csproj|C:\\Users\\G\u00F6ksu\\Downloads\\RestaurantManagementSystemGroupProject\\Restaurant Management System Group Project\\RMS_28.12.24\\restaurant_management_system\\addorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D54B744A-1D71-4938-922C-4F465653D19E}|Restaurant_Management_System\\RMS-28.12.24.csproj|solutionrelative:restaurant_management_system\\addorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54B744A-1D71-4938-922C-4F465653D19E}|Restaurant_Management_System\\RMS-28.12.24.csproj|C:\\Users\\G\u00F6ksu\\Downloads\\RestaurantManagementSystemGroupProject\\Restaurant Management System Group Project\\RMS_28.12.24\\restaurant_management_system\\waiterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D54B744A-1D71-4938-922C-4F465653D19E}|Restaurant_Management_System\\RMS-28.12.24.csproj|solutionrelative:restaurant_management_system\\waiterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54B744A-1D71-4938-922C-4F465653D19E}|Restaurant_Management_System\\RMS-28.12.24.csproj|C:\\Users\\G\u00F6ksu\\Downloads\\RestaurantManagementSystemGroupProject\\Restaurant Management System Group Project\\RMS_28.12.24\\restaurant_management_system\\revenueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D54B744A-1D71-4938-922C-4F465653D19E}|Restaurant_Management_System\\RMS-28.12.24.csproj|solutionrelative:restaurant_management_system\\revenueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54B744A-1D71-4938-922C-4F465653D19E}|Restaurant_Management_System\\RMS-28.12.24.csproj|C:\\Users\\G\u00F6ksu\\Downloads\\RestaurantManagementSystemGroupProject\\Restaurant Management System Group Project\\RMS_28.12.24\\restaurant_management_system\\managemenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D54B744A-1D71-4938-922C-4F465653D19E}|Restaurant_Management_System\\RMS-28.12.24.csproj|solutionrelative:restaurant_management_system\\managemenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54B744A-1D71-4938-922C-4F465653D19E}|Restaurant_Management_System\\RMS-28.12.24.csproj|C:\\Users\\G\u00F6ksu\\Downloads\\RestaurantManagementSystemGroupProject\\Restaurant Management System Group Project\\RMS_28.12.24\\restaurant_management_system\\managestaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D54B744A-1D71-4938-922C-4F465653D19E}|Restaurant_Management_System\\RMS-28.12.24.csproj|solutionrelative:restaurant_management_system\\managestaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54B744A-1D71-4938-922C-4F465653D19E}|Restaurant_Management_System\\RMS-28.12.24.csproj|C:\\Users\\G\u00F6ksu\\Downloads\\RestaurantManagementSystemGroupProject\\Restaurant Management System Group Project\\RMS_28.12.24\\restaurant_management_system\\managestockform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D54B744A-1D71-4938-922C-4F465653D19E}|Restaurant_Management_System\\RMS-28.12.24.csproj|solutionrelative:restaurant_management_system\\managestockform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 190,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\G\u00F6ksu\\Downloads\\RestaurantManagementSystemGroupProject\\Restaurant Management System Group Project\\RMS_28.12.24\\Restaurant_Management_System\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Restaurant_Management_System\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\G\u00F6ksu\\OneDrive\\Desktop\\RestaurantManagementSystem-EmineHatun\u00C7akmak-G\u00F6ksuKesen-KadirOcak\\RMS_28.12.24\\Restaurant_Management_System\\LoginForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Desktop\\RestaurantManagementSystem-EmineHatun\u00C7akmak-G\u00F6ksuKesen-KadirOcak\\RMS_28.12.24\\Restaurant_Management_System\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:01:27.98Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OwnerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\G\u00F6ksu\\Downloads\\RestaurantManagementSystemGroupProject\\Restaurant Management System Group Project\\RMS_28.12.24\\Restaurant_Management_System\\OwnerForm.cs",
+              "RelativeDocumentMoniker": "Restaurant_Management_System\\OwnerForm.cs",
+              "ToolTip": "C:\\Users\\G\u00F6ksu\\OneDrive\\Desktop\\RestaurantManagementSystem-EmineHatun\u00C7akmak-G\u00F6ksuKesen-KadirOcak\\RMS_28.12.24\\Restaurant_Management_System\\OwnerForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Desktop\\RestaurantManagementSystem-EmineHatun\u00C7akmak-G\u00F6ksuKesen-KadirOcak\\RMS_28.12.24\\Restaurant_Management_System\\OwnerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:01:32.578Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ManageStockForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\G\u00F6ksu\\Downloads\\RestaurantManagementSystemGroupProject\\Restaurant Management System Group Project\\RMS_28.12.24\\Restaurant_Management_System\\ManageStockForm.cs",
+              "RelativeDocumentMoniker": "Restaurant_Management_System\\ManageStockForm.cs",
+              "ToolTip": "C:\\Users\\G\u00F6ksu\\OneDrive\\Desktop\\RestaurantManagementSystem-EmineHatun\u00C7akmak-G\u00F6ksuKesen-KadirOcak\\RMS_28.12.24\\Restaurant_Management_System\\ManageStockForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Desktop\\RestaurantManagementSystem-EmineHatun\u00C7akmak-G\u00F6ksuKesen-KadirOcak\\RMS_28.12.24\\Restaurant_Management_System\\ManageStockForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T10:51:11.606Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManageStaff.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\G\u00F6ksu\\Downloads\\RestaurantManagementSystemGroupProject\\Restaurant Management System Group Project\\RMS_28.12.24\\Restaurant_Management_System\\ManageStaff.cs",
+              "RelativeDocumentMoniker": "Restaurant_Management_System\\ManageStaff.cs",
+              "ToolTip": "C:\\Users\\G\u00F6ksu\\OneDrive\\Desktop\\RestaurantManagementSystem-EmineHatun\u00C7akmak-G\u00F6ksuKesen-KadirOcak\\RMS_28.12.24\\Restaurant_Management_System\\ManageStaff.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Desktop\\RestaurantManagementSystem-EmineHatun\u00C7akmak-G\u00F6ksuKesen-KadirOcak\\RMS_28.12.24\\Restaurant_Management_System\\ManageStaff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:01:42.537Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ManageMenuForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\G\u00F6ksu\\Downloads\\RestaurantManagementSystemGroupProject\\Restaurant Management System Group Project\\RMS_28.12.24\\Restaurant_Management_System\\ManageMenuForm.cs",
+              "RelativeDocumentMoniker": "Restaurant_Management_System\\ManageMenuForm.cs",
+              "ToolTip": "C:\\Users\\G\u00F6ksu\\OneDrive\\Desktop\\RestaurantManagementSystem-EmineHatun\u00C7akmak-G\u00F6ksuKesen-KadirOcak\\RMS_28.12.24\\Restaurant_Management_System\\ManageMenuForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Desktop\\RestaurantManagementSystem-EmineHatun\u00C7akmak-G\u00F6ksuKesen-KadirOcak\\RMS_28.12.24\\Restaurant_Management_System\\ManageMenuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:01:47.305Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RevenueForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\G\u00F6ksu\\Downloads\\RestaurantManagementSystemGroupProject\\Restaurant Management System Group Project\\RMS_28.12.24\\Restaurant_Management_System\\RevenueForm.cs",
+              "RelativeDocumentMoniker": "Restaurant_Management_System\\RevenueForm.cs",
+              "ToolTip": "C:\\Users\\G\u00F6ksu\\OneDrive\\Desktop\\RestaurantManagementSystem-EmineHatun\u00C7akmak-G\u00F6ksuKesen-KadirOcak\\RMS_28.12.24\\Restaurant_Management_System\\RevenueForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Desktop\\RestaurantManagementSystem-EmineHatun\u00C7akmak-G\u00F6ksuKesen-KadirOcak\\RMS_28.12.24\\Restaurant_Management_System\\RevenueForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:01:56.035Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WaiterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\G\u00F6ksu\\Downloads\\RestaurantManagementSystemGroupProject\\Restaurant Management System Group Project\\RMS_28.12.24\\Restaurant_Management_System\\WaiterForm.cs",
+              "RelativeDocumentMoniker": "Restaurant_Management_System\\WaiterForm.cs",
+              "ToolTip": "C:\\Users\\G\u00F6ksu\\OneDrive\\Desktop\\RestaurantManagementSystem-EmineHatun\u00C7akmak-G\u00F6ksuKesen-KadirOcak\\RMS_28.12.24\\Restaurant_Management_System\\WaiterForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Desktop\\RestaurantManagementSystem-EmineHatun\u00C7akmak-G\u00F6ksuKesen-KadirOcak\\RMS_28.12.24\\Restaurant_Management_System\\WaiterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:02:00.628Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddOrder.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\G\u00F6ksu\\Downloads\\RestaurantManagementSystemGroupProject\\Restaurant Management System Group Project\\RMS_28.12.24\\Restaurant_Management_System\\AddOrder.cs",
+              "RelativeDocumentMoniker": "Restaurant_Management_System\\AddOrder.cs",
+              "ToolTip": "C:\\Users\\G\u00F6ksu\\OneDrive\\Desktop\\RestaurantManagementSystem-EmineHatun\u00C7akmak-G\u00F6ksuKesen-KadirOcak\\RMS_28.12.24\\Restaurant_Management_System\\AddOrder.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Desktop\\RestaurantManagementSystem-EmineHatun\u00C7akmak-G\u00F6ksuKesen-KadirOcak\\RMS_28.12.24\\Restaurant_Management_System\\AddOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:02:06.373Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViewMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\G\u00F6ksu\\Downloads\\RestaurantManagementSystemGroupProject\\Restaurant Management System Group Project\\RMS_28.12.24\\Restaurant_Management_System\\ViewMenu.cs",
+              "RelativeDocumentMoniker": "Restaurant_Management_System\\ViewMenu.cs",
+              "ToolTip": "C:\\Users\\G\u00F6ksu\\OneDrive\\Desktop\\RestaurantManagementSystem-EmineHatun\u00C7akmak-G\u00F6ksuKesen-KadirOcak\\RMS_28.12.24\\Restaurant_Management_System\\ViewMenu.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Desktop\\RestaurantManagementSystem-EmineHatun\u00C7akmak-G\u00F6ksuKesen-KadirOcak\\RMS_28.12.24\\Restaurant_Management_System\\ViewMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:02:11.298Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChangeOrderStatus.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\G\u00F6ksu\\Downloads\\RestaurantManagementSystemGroupProject\\Restaurant Management System Group Project\\RMS_28.12.24\\Restaurant_Management_System\\ChangeOrderStatus.cs",
+              "RelativeDocumentMoniker": "Restaurant_Management_System\\ChangeOrderStatus.cs",
+              "ToolTip": "C:\\Users\\G\u00F6ksu\\OneDrive\\Desktop\\RestaurantManagementSystem-EmineHatun\u00C7akmak-G\u00F6ksuKesen-KadirOcak\\RMS_28.12.24\\Restaurant_Management_System\\ChangeOrderStatus.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Desktop\\RestaurantManagementSystem-EmineHatun\u00C7akmak-G\u00F6ksuKesen-KadirOcak\\RMS_28.12.24\\Restaurant_Management_System\\ChangeOrderStatus.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:02:16.833Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChefForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\G\u00F6ksu\\Downloads\\RestaurantManagementSystemGroupProject\\Restaurant Management System Group Project\\RMS_28.12.24\\Restaurant_Management_System\\ChefForm.cs",
+              "RelativeDocumentMoniker": "Restaurant_Management_System\\ChefForm.cs",
+              "ToolTip": "C:\\Users\\G\u00F6ksu\\OneDrive\\Desktop\\RestaurantManagementSystem-EmineHatun\u00C7akmak-G\u00F6ksuKesen-KadirOcak\\RMS_28.12.24\\Restaurant_Management_System\\ChefForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Desktop\\RestaurantManagementSystem-EmineHatun\u00C7akmak-G\u00F6ksuKesen-KadirOcak\\RMS_28.12.24\\Restaurant_Management_System\\ChefForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:02:23.994Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewRecipe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\G\u00F6ksu\\Downloads\\RestaurantManagementSystemGroupProject\\Restaurant Management System Group Project\\RMS_28.12.24\\Restaurant_Management_System\\ViewRecipe.cs",
+              "RelativeDocumentMoniker": "Restaurant_Management_System\\ViewRecipe.cs",
+              "ToolTip": "C:\\Users\\G\u00F6ksu\\OneDrive\\Desktop\\RestaurantManagementSystem-EmineHatun\u00C7akmak-G\u00F6ksuKesen-KadirOcak\\RMS_28.12.24\\Restaurant_Management_System\\ViewRecipe.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Desktop\\RestaurantManagementSystem-EmineHatun\u00C7akmak-G\u00F6ksuKesen-KadirOcak\\RMS_28.12.24\\Restaurant_Management_System\\ViewRecipe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:02:29.006Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CashierForm1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\G\u00F6ksu\\Downloads\\RestaurantManagementSystemGroupProject\\Restaurant Management System Group Project\\RMS_28.12.24\\Restaurant_Management_System\\CashierForm1.cs",
+              "RelativeDocumentMoniker": "Restaurant_Management_System\\CashierForm1.cs",
+              "ToolTip": "C:\\Users\\G\u00F6ksu\\OneDrive\\Desktop\\RestaurantManagementSystem-EmineHatun\u00C7akmak-G\u00F6ksuKesen-KadirOcak\\RMS_28.12.24\\Restaurant_Management_System\\CashierForm1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Desktop\\RestaurantManagementSystem-EmineHatun\u00C7akmak-G\u00F6ksuKesen-KadirOcak\\RMS_28.12.24\\Restaurant_Management_System\\CashierForm1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:02:34.704Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\G\u00F6ksu\\Downloads\\RestaurantManagementSystemGroupProject\\Restaurant Management System Group Project\\RMS_28.12.24\\Restaurant_Management_System\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "Restaurant_Management_System\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\G\u00F6ksu\\Downloads\\RestaurantManagementSystemGroupProject\\Restaurant Management System Group Project\\RMS_28.12.24\\Restaurant_Management_System\\DatabaseConnection.cs",
+              "RelativeToolTip": "Restaurant_Management_System\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:30:42.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OwnerForm.cs",
+              "DocumentMoniker": "C:\\Users\\G\u00F6ksu\\Downloads\\RestaurantManagementSystemGroupProject\\Restaurant Management System Group Project\\RMS_28.12.24\\Restaurant_Management_System\\OwnerForm.cs",
+              "RelativeDocumentMoniker": "Restaurant_Management_System\\OwnerForm.cs",
+              "ToolTip": "C:\\Users\\G\u00F6ksu\\Downloads\\RestaurantManagementSystemGroupProject\\Restaurant Management System Group Project\\RMS_28.12.24\\Restaurant_Management_System\\OwnerForm.cs",
+              "RelativeToolTip": "Restaurant_Management_System\\OwnerForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:30:21.907Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

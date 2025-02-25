@@ -1,0 +1,17 @@
+C:\Users\Göksu\source\repos\Restaurant_Management_System\Restaurant_Management_System\bin\Debug\Restaurant_Management_System.exe.config
+C:\Users\Göksu\source\repos\Restaurant_Management_System\Restaurant_Management_System\bin\Debug\Restaurant_Management_System.exe
+C:\Users\Göksu\source\repos\Restaurant_Management_System\Restaurant_Management_System\bin\Debug\Restaurant_Management_System.pdb
+C:\Users\Göksu\source\repos\Restaurant_Management_System\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.csproj.AssemblyReference.cache
+C:\Users\Göksu\source\repos\Restaurant_Management_System\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+C:\Users\Göksu\source\repos\Restaurant_Management_System\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.csproj.GenerateResource.cache
+C:\Users\Göksu\source\repos\Restaurant_Management_System\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\Göksu\source\repos\Restaurant_Management_System\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.exe
+C:\Users\Göksu\source\repos\Restaurant_Management_System\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.pdb
+C:\Users\Göksu\source\repos\Restaurant_Management_System\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.LoginForm.resources
+C:\Users\Göksu\source\repos\Restaurant_Management_System\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.OwnerForm.resources
+C:\Users\Göksu\source\repos\Restaurant_Management_System\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.CashierForm.resources
+C:\Users\Göksu\source\repos\Restaurant_Management_System\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.ChefForm.resources
+C:\Users\Göksu\source\repos\Restaurant_Management_System\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.WaiterForm.resources
+C:\Users\Göksu\source\repos\Restaurant_Management_System\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.AddOrder.resources
+C:\Users\Göksu\source\repos\Restaurant_Management_System\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.ViewMenu.resources
+C:\Users\Göksu\source\repos\Restaurant_Management_System\Restaurant_Management_System\obj\Debug\Restaurant_Management_System.ChangeOrderStatus.resources
